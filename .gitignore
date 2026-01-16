@@ -1,0 +1,19 @@
+# Environnements
+venv/
+.env/
+
+# Python
+__pycache__/
+*.pyc
+
+# Dataset (très important)
+data/
+dataset/
+*.h5
+*.pt
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
